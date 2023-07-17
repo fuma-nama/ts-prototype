@@ -1,6 +1,6 @@
-# Typescript SDL Prototype
+# Typescript Prototypes
 
-A SDL prototype using Typescript's string manipulation.
+Some prototypes using Typescript's string manipulation.
 
 ## Target
 
