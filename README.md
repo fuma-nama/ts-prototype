@@ -18,5 +18,5 @@ console.log(result.id); // error
 
 ### Problems
 
-1. String templates can't be used because of [this issue](https://github.com/microsoft/TypeScript/issues/31422)
+1. String templates can't be used (see [this issue](https://github.com/microsoft/TypeScript/issues/31422))
 2. Performance will be terrible in large codebases
