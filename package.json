@@ -1,0 +1,16 @@
+{
+    "name": "ts-prototype",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.ts",
+    "scripts": {
+        "dev": "tsx ./main.ts",
+        "check": "tsc ./main.ts -noEmit"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "tsx": "^3.12.7",
+        "typescript": "^5.1.6"
+    }
+}
